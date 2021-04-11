@@ -6,11 +6,5 @@ class Dog
 
   def bark
     puts "Woof!"
+  end
 end
-
-henry = Dog.new
-henry. name = "Henry"
-
-henry.name
-
-henry.bark
