@@ -12,3 +12,10 @@ class Dog
     puts "woof!"
   end
 end
+
+henry = Dog.new
+henry.name = "Henry"
+
+henry.name
+
+henry.bark
